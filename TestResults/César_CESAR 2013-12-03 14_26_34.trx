@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="8e14e189-0c29-4212-96bc-a567289026ac" name="César@CESAR 2013-12-03 14:26:34" runUser="CESAR\César" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="5469631a-633f-458a-876e-3f8f81fa4ab0">
+    <Deployment runDeploymentRoot="César_CESAR 2013-12-03 14_26_34">
+      <DeploymentItem filename="D:\GoogleCode\SGI 1.0\Aplicacion\Source\Business Layer\GestionInmobiliaria.BusinessEntity\bin\Debug\GestionInmobiliaria.BusinessEntity.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2013-12-03T14:26:34.4747746-05:00" queuing="2013-12-03T14:26:35.7688429-05:00" start="2013-12-03T14:26:35.9750159-05:00" finish="2013-12-03T14:39:42.5348952-05:00" />
+  <ResultSummary outcome="Error">
+    <Counters total="1" executed="1" error="0" failed="0" timeout="0" aborted="1" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="CESAR" outcome="Error" timestamp="2013-12-03T14:39:42.5338944-05:00">
+        <Text>Test host process exited unexpectedly.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="AgregarTest" storage="d:\googlecode\sgi 1.0\aplicacion\source\tests\gestioninmobiliaria.restservices.tests\bin\debug\gestioninmobiliaria.restservices.tests.dll" id="07554af4-2bee-cf61-7070-6a1acb6b8f4d">
+      <Execution id="b4395069-a45f-4b85-b0c3-58f020e30029" />
+      <TestMethod codeBase="D:/GoogleCode/SGI 1.0/Aplicacion/Source/Tests/GestionInmobiliaria.RESTServices.Tests/bin/Debug/GestionInmobiliaria.RESTServices.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GestionInmobiliaria.RESTServices.Tests.UnidadInmobiliariasTest, GestionInmobiliaria.RESTServices.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="AgregarTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="07554af4-2bee-cf61-7070-6a1acb6b8f4d" executionId="b4395069-a45f-4b85-b0c3-58f020e30029" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="b4395069-a45f-4b85-b0c3-58f020e30029" testId="07554af4-2bee-cf61-7070-6a1acb6b8f4d" testName="AgregarTest" computerName="CESAR" duration="00:13:06.3226803" startTime="2013-12-03T14:26:36.2122149-05:00" endTime="2013-12-03T14:39:42.5348952-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Aborted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b4395069-a45f-4b85-b0c3-58f020e30029">
+    </UnitTestResult>
+  </Results>
+</TestRun>

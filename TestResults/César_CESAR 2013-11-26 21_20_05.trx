@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="afa3d21b-806d-4599-8678-8be7f4773b05" name="César@CESAR 2013-11-26 21:20:05" runUser="CESAR\César" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="bddc02b0-9d4d-4193-b231-9c1f0790d334">
+    <Deployment runDeploymentRoot="César_CESAR 2013-11-26 21_20_05">
+      <DeploymentItem filename="D:\GoogleCode\SGI 1.0\Aplicacion\Source\Business Layer\GestionInmobiliaria.BusinessEntity\bin\Debug\GestionInmobiliaria.BusinessEntity.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2013-11-26T21:20:05.2080382-05:00" queuing="2013-11-26T21:20:11.7304580-05:00" start="2013-11-26T21:20:11.9466387-05:00" finish="2013-11-26T21:21:33.1617350-05:00" />
+  <ResultSummary outcome="Error">
+    <Counters total="5" executed="4" passed="3" error="0" failed="0" timeout="0" aborted="1" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="1" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="CESAR" outcome="Error" timestamp="2013-11-26T21:21:33.1607336-05:00">
+        <Text>Test host process exited unexpectedly.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="ListarTest" storage="d:\googlecode\sgi 1.0\aplicacion\source\tests\gestioninmobiliaria.restservices.tests\bin\debug\gestioninmobiliaria.restservices.tests.dll" id="a88f4359-31e9-44b9-4105-93cc20451916">
+      <Execution id="37d33ea5-ac27-464e-995e-028939beeecc" />
+      <TestMethod codeBase="D:/GoogleCode/SGI 1.0/Aplicacion/Source/Tests/GestionInmobiliaria.RESTServices.Tests/bin/Debug/GestionInmobiliaria.RESTServices.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GestionInmobiliaria.RESTServices.Tests.UnidadInmobiliariasTest, GestionInmobiliaria.RESTServices.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ListarTest" />
+    </UnitTest>
+    <UnitTest name="ObtenerTest" storage="d:\googlecode\sgi 1.0\aplicacion\source\tests\gestioninmobiliaria.restservices.tests\bin\debug\gestioninmobiliaria.restservices.tests.dll" id="076a1b20-13dd-1816-35c3-4c89a31b7647">
+      <Execution id="e65a9994-8433-434b-b9d1-28197e7f877b" />
+      <TestMethod codeBase="D:/GoogleCode/SGI 1.0/Aplicacion/Source/Tests/GestionInmobiliaria.RESTServices.Tests/bin/Debug/GestionInmobiliaria.RESTServices.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GestionInmobiliaria.RESTServices.Tests.UnidadInmobiliariasTest, GestionInmobiliaria.RESTServices.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ObtenerTest" />
+    </UnitTest>
+    <UnitTest name="EliminarTest" storage="d:\googlecode\sgi 1.0\aplicacion\source\tests\gestioninmobiliaria.restservices.tests\bin\debug\gestioninmobiliaria.restservices.tests.dll" id="f9337281-e2fa-1488-2cd7-4d0b79147013">
+      <Execution id="3b4a2586-a439-4b8f-9b7e-24f664552350" />
+      <TestMethod codeBase="D:/GoogleCode/SGI 1.0/Aplicacion/Source/Tests/GestionInmobiliaria.RESTServices.Tests/bin/Debug/GestionInmobiliaria.RESTServices.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GestionInmobiliaria.RESTServices.Tests.UnidadInmobiliariasTest, GestionInmobiliaria.RESTServices.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="EliminarTest" />
+    </UnitTest>
+    <UnitTest name="AgregarTest" storage="d:\googlecode\sgi 1.0\aplicacion\source\tests\gestioninmobiliaria.restservices.tests\bin\debug\gestioninmobiliaria.restservices.tests.dll" id="07554af4-2bee-cf61-7070-6a1acb6b8f4d">
+      <Execution id="d4893313-a022-473f-8e3f-d088f0212060" />
+      <TestMethod codeBase="D:/GoogleCode/SGI 1.0/Aplicacion/Source/Tests/GestionInmobiliaria.RESTServices.Tests/bin/Debug/GestionInmobiliaria.RESTServices.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GestionInmobiliaria.RESTServices.Tests.UnidadInmobiliariasTest, GestionInmobiliaria.RESTServices.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="AgregarTest" />
+    </UnitTest>
+    <UnitTest name="ModificarTest" storage="d:\googlecode\sgi 1.0\aplicacion\source\tests\gestioninmobiliaria.restservices.tests\bin\debug\gestioninmobiliaria.restservices.tests.dll" id="05db7b65-e27e-f630-133f-eae1a4597814">
+      <Execution id="cddcdecd-944f-48e2-af3e-e3a942205d96" />
+      <TestMethod codeBase="D:/GoogleCode/SGI 1.0/Aplicacion/Source/Tests/GestionInmobiliaria.RESTServices.Tests/bin/Debug/GestionInmobiliaria.RESTServices.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GestionInmobiliaria.RESTServices.Tests.UnidadInmobiliariasTest, GestionInmobiliaria.RESTServices.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ModificarTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="a88f4359-31e9-44b9-4105-93cc20451916" executionId="37d33ea5-ac27-464e-995e-028939beeecc" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="076a1b20-13dd-1816-35c3-4c89a31b7647" executionId="e65a9994-8433-434b-b9d1-28197e7f877b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="07554af4-2bee-cf61-7070-6a1acb6b8f4d" executionId="d4893313-a022-473f-8e3f-d088f0212060" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="05db7b65-e27e-f630-133f-eae1a4597814" executionId="cddcdecd-944f-48e2-af3e-e3a942205d96" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f9337281-e2fa-1488-2cd7-4d0b79147013" executionId="3b4a2586-a439-4b8f-9b7e-24f664552350" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="37d33ea5-ac27-464e-995e-028939beeecc" testId="a88f4359-31e9-44b9-4105-93cc20451916" testName="ListarTest" computerName="CESAR" duration="00:00:08.3522236" startTime="2013-11-26T21:20:12.2058816-05:00" endTime="2013-11-26T21:20:21.9550309-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="37d33ea5-ac27-464e-995e-028939beeecc">
+    </UnitTestResult>
+    <UnitTestResult executionId="e65a9994-8433-434b-b9d1-28197e7f877b" testId="076a1b20-13dd-1816-35c3-4c89a31b7647" testName="ObtenerTest" computerName="CESAR" duration="00:00:00.0122400" startTime="2013-11-26T21:20:21.9700435-05:00" endTime="2013-11-26T21:20:21.9911106-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e65a9994-8433-434b-b9d1-28197e7f877b">
+    </UnitTestResult>
+    <UnitTestResult executionId="d4893313-a022-473f-8e3f-d088f0212060" testId="07554af4-2bee-cf61-7070-6a1acb6b8f4d" testName="AgregarTest" computerName="CESAR" duration="00:00:00.0002415" startTime="2013-11-26T21:20:22.0060737-05:00" endTime="2013-11-26T21:20:22.0130834-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d4893313-a022-473f-8e3f-d088f0212060">
+    </UnitTestResult>
+    <UnitTestResult executionId="cddcdecd-944f-48e2-af3e-e3a942205d96" testId="05db7b65-e27e-f630-133f-eae1a4597814" testName="ModificarTest" computerName="CESAR" duration="00:01:11.1406487" startTime="2013-11-26T21:20:22.0210863-05:00" endTime="2013-11-26T21:21:33.1617350-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Aborted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="cddcdecd-944f-48e2-af3e-e3a942205d96">
+    </UnitTestResult>
+    <UnitTestResult executionId="3b4a2586-a439-4b8f-9b7e-24f664552350" testId="f9337281-e2fa-1488-2cd7-4d0b79147013" testName="EliminarTest" computerName="CESAR" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3b4a2586-a439-4b8f-9b7e-24f664552350">
+    </UnitTestResult>
+  </Results>
+</TestRun>

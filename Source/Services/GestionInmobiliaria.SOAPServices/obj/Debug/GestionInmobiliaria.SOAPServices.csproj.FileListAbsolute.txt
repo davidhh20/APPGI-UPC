@@ -1,0 +1,84 @@
+D:\GoogleCode\SGI 3.0\Source\Services\GestionInmobiliaria.SOAPServices\bin\GestionInmobiliaria.SOAPServices.dll
+D:\GoogleCode\SGI 3.0\Source\Services\GestionInmobiliaria.SOAPServices\bin\GestionInmobiliaria.SOAPServices.pdb
+D:\GoogleCode\SGI 3.0\Source\Services\GestionInmobiliaria.SOAPServices\obj\Debug\GestionInmobiliaria.SOAPServices.dll
+D:\GoogleCode\SGI 3.0\Source\Services\GestionInmobiliaria.SOAPServices\obj\Debug\GestionInmobiliaria.SOAPServices.pdb
+D:\GoogleCode\SGI 3.0\Source\Services\GestionInmobiliaria.SOAPServices\bin\GestionInmobiliaria.BusinessEntity.dll
+D:\GoogleCode\SGI 3.0\Source\Services\GestionInmobiliaria.SOAPServices\bin\GestionInmobiliaria.BusinessLogic.dll
+D:\GoogleCode\SGI 3.0\Source\Services\GestionInmobiliaria.SOAPServices\bin\GestionInmobiliaria.Utils.dll
+D:\GoogleCode\SGI 3.0\Source\Services\GestionInmobiliaria.SOAPServices\bin\GestionInmobiliaria.DataAccess.dll
+D:\GoogleCode\SGI 3.0\Source\Services\GestionInmobiliaria.SOAPServices\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\GoogleCode\SGI 3.0\Source\Services\GestionInmobiliaria.SOAPServices\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\GoogleCode\SGI 3.0\Source\Services\GestionInmobiliaria.SOAPServices\bin\Microsoft.Practices.ServiceLocation.dll
+D:\GoogleCode\SGI 3.0\Source\Services\GestionInmobiliaria.SOAPServices\bin\Microsoft.Practices.Unity.dll
+D:\GoogleCode\SGI 3.0\Source\Services\GestionInmobiliaria.SOAPServices\bin\Microsoft.Practices.Unity.Interception.dll
+D:\GoogleCode\SGI 3.0\Source\Services\GestionInmobiliaria.SOAPServices\bin\GestionInmobiliaria.BusinessEntity.pdb
+D:\GoogleCode\SGI 3.0\Source\Services\GestionInmobiliaria.SOAPServices\bin\GestionInmobiliaria.BusinessLogic.pdb
+D:\GoogleCode\SGI 3.0\Source\Services\GestionInmobiliaria.SOAPServices\bin\GestionInmobiliaria.Utils.pdb
+D:\GoogleCode\SGI 3.0\Source\Services\GestionInmobiliaria.SOAPServices\bin\GestionInmobiliaria.DataAccess.pdb
+D:\GoogleCode\SGI 3.0\Source\Services\GestionInmobiliaria.SOAPServices\bin\Microsoft.Practices.ServiceLocation.pdb
+D:\GoogleCode\SGI 3.0\Source\Services\GestionInmobiliaria.SOAPServices\bin\Microsoft.Practices.Unity.pdb
+D:\GoogleCode\SGI 3.0\Source\Services\GestionInmobiliaria.SOAPServices\bin\Microsoft.Practices.Unity.Interception.pdb
+D:\GoogleCode\SGI 3.0\Source\Services\GestionInmobiliaria.SOAPServices\obj\Debug\GestionInmobiliaria.SOAPServices.csprojResolveAssemblyReference.cache
+E:\Reservas DSD\Aplicacion\Source\Services\GestionInmobiliaria.SOAPServices\bin\GestionInmobiliaria.SOAPServices.dll
+E:\Reservas DSD\Aplicacion\Source\Services\GestionInmobiliaria.SOAPServices\bin\GestionInmobiliaria.SOAPServices.pdb
+E:\Reservas DSD\Aplicacion\Source\Services\GestionInmobiliaria.SOAPServices\bin\GestionInmobiliaria.BusinessEntity.dll
+E:\Reservas DSD\Aplicacion\Source\Services\GestionInmobiliaria.SOAPServices\bin\GestionInmobiliaria.BusinessLogic.dll
+E:\Reservas DSD\Aplicacion\Source\Services\GestionInmobiliaria.SOAPServices\bin\GestionInmobiliaria.Utils.dll
+E:\Reservas DSD\Aplicacion\Source\Services\GestionInmobiliaria.SOAPServices\bin\GestionInmobiliaria.DataAccess.dll
+E:\Reservas DSD\Aplicacion\Source\Services\GestionInmobiliaria.SOAPServices\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\Reservas DSD\Aplicacion\Source\Services\GestionInmobiliaria.SOAPServices\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\Reservas DSD\Aplicacion\Source\Services\GestionInmobiliaria.SOAPServices\bin\Microsoft.Practices.ServiceLocation.dll
+E:\Reservas DSD\Aplicacion\Source\Services\GestionInmobiliaria.SOAPServices\bin\Microsoft.Practices.Unity.dll
+E:\Reservas DSD\Aplicacion\Source\Services\GestionInmobiliaria.SOAPServices\bin\Microsoft.Practices.Unity.Interception.dll
+E:\Reservas DSD\Aplicacion\Source\Services\GestionInmobiliaria.SOAPServices\bin\GestionInmobiliaria.BusinessEntity.pdb
+E:\Reservas DSD\Aplicacion\Source\Services\GestionInmobiliaria.SOAPServices\bin\GestionInmobiliaria.BusinessLogic.pdb
+E:\Reservas DSD\Aplicacion\Source\Services\GestionInmobiliaria.SOAPServices\bin\GestionInmobiliaria.Utils.pdb
+E:\Reservas DSD\Aplicacion\Source\Services\GestionInmobiliaria.SOAPServices\bin\GestionInmobiliaria.DataAccess.pdb
+E:\Reservas DSD\Aplicacion\Source\Services\GestionInmobiliaria.SOAPServices\bin\Microsoft.Practices.ServiceLocation.pdb
+E:\Reservas DSD\Aplicacion\Source\Services\GestionInmobiliaria.SOAPServices\bin\Microsoft.Practices.Unity.pdb
+E:\Reservas DSD\Aplicacion\Source\Services\GestionInmobiliaria.SOAPServices\bin\Microsoft.Practices.Unity.Interception.pdb
+E:\Reservas DSD\Aplicacion\Source\Services\GestionInmobiliaria.SOAPServices\obj\Debug\GestionInmobiliaria.SOAPServices.csprojResolveAssemblyReference.cache
+E:\Reservas DSD\Aplicacion\Source\Services\GestionInmobiliaria.SOAPServices\obj\Debug\GestionInmobiliaria.SOAPServices.dll
+E:\Reservas DSD\Aplicacion\Source\Services\GestionInmobiliaria.SOAPServices\obj\Debug\GestionInmobiliaria.SOAPServices.pdb
+D:\GoogleCode\SGI 1.0\Aplicacion\Source\Services\GestionInmobiliaria.SOAPServices\bin\GestionInmobiliaria.SOAPServices.dll
+D:\GoogleCode\SGI 1.0\Aplicacion\Source\Services\GestionInmobiliaria.SOAPServices\bin\GestionInmobiliaria.SOAPServices.pdb
+D:\GoogleCode\SGI 1.0\Aplicacion\Source\Services\GestionInmobiliaria.SOAPServices\bin\GestionInmobiliaria.BusinessEntity.dll
+D:\GoogleCode\SGI 1.0\Aplicacion\Source\Services\GestionInmobiliaria.SOAPServices\bin\GestionInmobiliaria.BusinessLogic.dll
+D:\GoogleCode\SGI 1.0\Aplicacion\Source\Services\GestionInmobiliaria.SOAPServices\bin\GestionInmobiliaria.Utils.dll
+D:\GoogleCode\SGI 1.0\Aplicacion\Source\Services\GestionInmobiliaria.SOAPServices\bin\GestionInmobiliaria.DataAccess.dll
+D:\GoogleCode\SGI 1.0\Aplicacion\Source\Services\GestionInmobiliaria.SOAPServices\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\GoogleCode\SGI 1.0\Aplicacion\Source\Services\GestionInmobiliaria.SOAPServices\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\GoogleCode\SGI 1.0\Aplicacion\Source\Services\GestionInmobiliaria.SOAPServices\bin\Microsoft.Practices.ServiceLocation.dll
+D:\GoogleCode\SGI 1.0\Aplicacion\Source\Services\GestionInmobiliaria.SOAPServices\bin\Microsoft.Practices.Unity.dll
+D:\GoogleCode\SGI 1.0\Aplicacion\Source\Services\GestionInmobiliaria.SOAPServices\bin\Microsoft.Practices.Unity.Interception.dll
+D:\GoogleCode\SGI 1.0\Aplicacion\Source\Services\GestionInmobiliaria.SOAPServices\bin\GestionInmobiliaria.BusinessEntity.pdb
+D:\GoogleCode\SGI 1.0\Aplicacion\Source\Services\GestionInmobiliaria.SOAPServices\bin\GestionInmobiliaria.BusinessLogic.pdb
+D:\GoogleCode\SGI 1.0\Aplicacion\Source\Services\GestionInmobiliaria.SOAPServices\bin\GestionInmobiliaria.Utils.pdb
+D:\GoogleCode\SGI 1.0\Aplicacion\Source\Services\GestionInmobiliaria.SOAPServices\bin\GestionInmobiliaria.DataAccess.pdb
+D:\GoogleCode\SGI 1.0\Aplicacion\Source\Services\GestionInmobiliaria.SOAPServices\bin\Microsoft.Practices.ServiceLocation.pdb
+D:\GoogleCode\SGI 1.0\Aplicacion\Source\Services\GestionInmobiliaria.SOAPServices\bin\Microsoft.Practices.Unity.pdb
+D:\GoogleCode\SGI 1.0\Aplicacion\Source\Services\GestionInmobiliaria.SOAPServices\bin\Microsoft.Practices.Unity.Interception.pdb
+D:\GoogleCode\SGI 1.0\Aplicacion\Source\Services\GestionInmobiliaria.SOAPServices\obj\Debug\GestionInmobiliaria.SOAPServices.csprojResolveAssemblyReference.cache
+D:\GoogleCode\SGI 1.0\Aplicacion\Source\Services\GestionInmobiliaria.SOAPServices\obj\Debug\GestionInmobiliaria.SOAPServices.dll
+D:\GoogleCode\SGI 1.0\Aplicacion\Source\Services\GestionInmobiliaria.SOAPServices\obj\Debug\GestionInmobiliaria.SOAPServices.pdb
+C:\Users\David\Desktop\SIST. DISTRIBUIDOS\SGI 1.0\SGI 1.0\SGI 1.0\Aplicacion\Source\Services\GestionInmobiliaria.SOAPServices\bin\GestionInmobiliaria.SOAPServices.dll
+C:\Users\David\Desktop\SIST. DISTRIBUIDOS\SGI 1.0\SGI 1.0\SGI 1.0\Aplicacion\Source\Services\GestionInmobiliaria.SOAPServices\bin\GestionInmobiliaria.SOAPServices.pdb
+C:\Users\David\Desktop\SIST. DISTRIBUIDOS\SGI 1.0\SGI 1.0\SGI 1.0\Aplicacion\Source\Services\GestionInmobiliaria.SOAPServices\bin\GestionInmobiliaria.BusinessEntity.dll
+C:\Users\David\Desktop\SIST. DISTRIBUIDOS\SGI 1.0\SGI 1.0\SGI 1.0\Aplicacion\Source\Services\GestionInmobiliaria.SOAPServices\bin\GestionInmobiliaria.BusinessLogic.dll
+C:\Users\David\Desktop\SIST. DISTRIBUIDOS\SGI 1.0\SGI 1.0\SGI 1.0\Aplicacion\Source\Services\GestionInmobiliaria.SOAPServices\bin\GestionInmobiliaria.Utils.dll
+C:\Users\David\Desktop\SIST. DISTRIBUIDOS\SGI 1.0\SGI 1.0\SGI 1.0\Aplicacion\Source\Services\GestionInmobiliaria.SOAPServices\bin\GestionInmobiliaria.DataAccess.dll
+C:\Users\David\Desktop\SIST. DISTRIBUIDOS\SGI 1.0\SGI 1.0\SGI 1.0\Aplicacion\Source\Services\GestionInmobiliaria.SOAPServices\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\David\Desktop\SIST. DISTRIBUIDOS\SGI 1.0\SGI 1.0\SGI 1.0\Aplicacion\Source\Services\GestionInmobiliaria.SOAPServices\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\David\Desktop\SIST. DISTRIBUIDOS\SGI 1.0\SGI 1.0\SGI 1.0\Aplicacion\Source\Services\GestionInmobiliaria.SOAPServices\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\David\Desktop\SIST. DISTRIBUIDOS\SGI 1.0\SGI 1.0\SGI 1.0\Aplicacion\Source\Services\GestionInmobiliaria.SOAPServices\bin\Microsoft.Practices.Unity.dll
+C:\Users\David\Desktop\SIST. DISTRIBUIDOS\SGI 1.0\SGI 1.0\SGI 1.0\Aplicacion\Source\Services\GestionInmobiliaria.SOAPServices\bin\Microsoft.Practices.Unity.Interception.dll
+C:\Users\David\Desktop\SIST. DISTRIBUIDOS\SGI 1.0\SGI 1.0\SGI 1.0\Aplicacion\Source\Services\GestionInmobiliaria.SOAPServices\bin\GestionInmobiliaria.BusinessEntity.pdb
+C:\Users\David\Desktop\SIST. DISTRIBUIDOS\SGI 1.0\SGI 1.0\SGI 1.0\Aplicacion\Source\Services\GestionInmobiliaria.SOAPServices\bin\GestionInmobiliaria.BusinessLogic.pdb
+C:\Users\David\Desktop\SIST. DISTRIBUIDOS\SGI 1.0\SGI 1.0\SGI 1.0\Aplicacion\Source\Services\GestionInmobiliaria.SOAPServices\bin\GestionInmobiliaria.Utils.pdb
+C:\Users\David\Desktop\SIST. DISTRIBUIDOS\SGI 1.0\SGI 1.0\SGI 1.0\Aplicacion\Source\Services\GestionInmobiliaria.SOAPServices\bin\GestionInmobiliaria.DataAccess.pdb
+C:\Users\David\Desktop\SIST. DISTRIBUIDOS\SGI 1.0\SGI 1.0\SGI 1.0\Aplicacion\Source\Services\GestionInmobiliaria.SOAPServices\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\David\Desktop\SIST. DISTRIBUIDOS\SGI 1.0\SGI 1.0\SGI 1.0\Aplicacion\Source\Services\GestionInmobiliaria.SOAPServices\bin\Microsoft.Practices.Unity.pdb
+C:\Users\David\Desktop\SIST. DISTRIBUIDOS\SGI 1.0\SGI 1.0\SGI 1.0\Aplicacion\Source\Services\GestionInmobiliaria.SOAPServices\bin\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\David\Desktop\SIST. DISTRIBUIDOS\SGI 1.0\SGI 1.0\SGI 1.0\Aplicacion\Source\Services\GestionInmobiliaria.SOAPServices\obj\Debug\GestionInmobiliaria.SOAPServices.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\SIST. DISTRIBUIDOS\SGI 1.0\SGI 1.0\SGI 1.0\Aplicacion\Source\Services\GestionInmobiliaria.SOAPServices\obj\Debug\GestionInmobiliaria.SOAPServices.dll
+C:\Users\David\Desktop\SIST. DISTRIBUIDOS\SGI 1.0\SGI 1.0\SGI 1.0\Aplicacion\Source\Services\GestionInmobiliaria.SOAPServices\obj\Debug\GestionInmobiliaria.SOAPServices.pdb

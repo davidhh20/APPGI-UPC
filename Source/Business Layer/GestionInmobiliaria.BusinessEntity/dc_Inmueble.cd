@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GestionInmobiliaria.BusinessEntity.Proyecto" Collapsed="true">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAEAIAQAAgAAgCAIgMCGggQAAJAAAAAAAAgAAAA=</HashCode>
+      <FileName>Proyecto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GestionInmobiliaria.BusinessEntity.Etapa">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Etapa.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Proyecto" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="GestionInmobiliaria.BusinessEntity.Edificio">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAAAAAAAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Edificio.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Etapa" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="GestionInmobiliaria.BusinessEntity.UnidadInmobiliaria">
+    <Position X="7.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAAAQAAAAAAgAAAQAAAAACAAAAAAAA=</HashCode>
+      <FileName>UnidadInmobiliaria.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Edificio" />
+      <Property Name="Etapa" />
+      <Property Name="Proyecto" />
+      <Property Name="TipoInmueble" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="GestionInmobiliaria.BusinessEntity.TipoInmueblexProyecto">
+    <Position X="1.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAACAAAAAAAAAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TipoInmueblexProyecto.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Proyecto" />
+      <Property Name="TipoInmueble" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="GestionInmobiliaria.BusinessEntity.TipoInmueble">
+    <Position X="4.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TipoInmueble.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,27 @@
+E:\Reservas DSD\Aplicacion\Source\Presentation Layer\GestionInmobiliaria.Web\obj\Debug\GestionInmobiliaria.Web.csprojResolveAssemblyReference.cache
+E:\Reservas DSD\Aplicacion\Source\Presentation Layer\GestionInmobiliaria.Web\obj\Debug\GestionInmobiliaria.Web.dll
+E:\Reservas DSD\Aplicacion\Source\Presentation Layer\GestionInmobiliaria.Web\obj\Debug\GestionInmobiliaria.Web.pdb
+E:\Reservas DSD\Aplicacion\Source\Presentation Layer\GestionInmobiliaria.Web\bin\GestionInmobiliaria.Web.dll
+E:\Reservas DSD\Aplicacion\Source\Presentation Layer\GestionInmobiliaria.Web\bin\GestionInmobiliaria.Web.pdb
+E:\Reservas DSD\Aplicacion\Source\Presentation Layer\GestionInmobiliaria.Web\bin\EntityFramework.dll
+E:\Reservas DSD\Aplicacion\Source\Presentation Layer\GestionInmobiliaria.Web\bin\GestionInmobiliaria.BusinessEntity.dll
+E:\Reservas DSD\Aplicacion\Source\Presentation Layer\GestionInmobiliaria.Web\bin\GestionInmobiliaria.BusinessEntity.pdb
+E:\Reservas DSD\Aplicacion\Source\Presentation Layer\GestionInmobiliaria.Web\bin\EntityFramework.xml
+D:\GoogleCode\SGI 1.0\Aplicacion\Source\Presentation Layer\GestionInmobiliaria.Web\bin\GestionInmobiliaria.Web.dll
+D:\GoogleCode\SGI 1.0\Aplicacion\Source\Presentation Layer\GestionInmobiliaria.Web\bin\GestionInmobiliaria.Web.pdb
+D:\GoogleCode\SGI 1.0\Aplicacion\Source\Presentation Layer\GestionInmobiliaria.Web\bin\EntityFramework.dll
+D:\GoogleCode\SGI 1.0\Aplicacion\Source\Presentation Layer\GestionInmobiliaria.Web\bin\GestionInmobiliaria.BusinessEntity.dll
+D:\GoogleCode\SGI 1.0\Aplicacion\Source\Presentation Layer\GestionInmobiliaria.Web\bin\GestionInmobiliaria.BusinessEntity.pdb
+D:\GoogleCode\SGI 1.0\Aplicacion\Source\Presentation Layer\GestionInmobiliaria.Web\bin\EntityFramework.xml
+D:\GoogleCode\SGI 1.0\Aplicacion\Source\Presentation Layer\GestionInmobiliaria.Web\obj\Debug\GestionInmobiliaria.Web.csprojResolveAssemblyReference.cache
+D:\GoogleCode\SGI 1.0\Aplicacion\Source\Presentation Layer\GestionInmobiliaria.Web\obj\Debug\GestionInmobiliaria.Web.dll
+D:\GoogleCode\SGI 1.0\Aplicacion\Source\Presentation Layer\GestionInmobiliaria.Web\obj\Debug\GestionInmobiliaria.Web.pdb
+C:\Users\David\Desktop\SIST. DISTRIBUIDOS\SGI 1.0\SGI 1.0\SGI 1.0\Aplicacion\Source\Presentation Layer\GestionInmobiliaria.Web\bin\GestionInmobiliaria.Web.dll
+C:\Users\David\Desktop\SIST. DISTRIBUIDOS\SGI 1.0\SGI 1.0\SGI 1.0\Aplicacion\Source\Presentation Layer\GestionInmobiliaria.Web\bin\GestionInmobiliaria.Web.pdb
+C:\Users\David\Desktop\SIST. DISTRIBUIDOS\SGI 1.0\SGI 1.0\SGI 1.0\Aplicacion\Source\Presentation Layer\GestionInmobiliaria.Web\bin\EntityFramework.dll
+C:\Users\David\Desktop\SIST. DISTRIBUIDOS\SGI 1.0\SGI 1.0\SGI 1.0\Aplicacion\Source\Presentation Layer\GestionInmobiliaria.Web\bin\GestionInmobiliaria.BusinessEntity.dll
+C:\Users\David\Desktop\SIST. DISTRIBUIDOS\SGI 1.0\SGI 1.0\SGI 1.0\Aplicacion\Source\Presentation Layer\GestionInmobiliaria.Web\bin\GestionInmobiliaria.BusinessEntity.pdb
+C:\Users\David\Desktop\SIST. DISTRIBUIDOS\SGI 1.0\SGI 1.0\SGI 1.0\Aplicacion\Source\Presentation Layer\GestionInmobiliaria.Web\bin\EntityFramework.xml
+C:\Users\David\Desktop\SIST. DISTRIBUIDOS\SGI 1.0\SGI 1.0\SGI 1.0\Aplicacion\Source\Presentation Layer\GestionInmobiliaria.Web\obj\Debug\GestionInmobiliaria.Web.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\SIST. DISTRIBUIDOS\SGI 1.0\SGI 1.0\SGI 1.0\Aplicacion\Source\Presentation Layer\GestionInmobiliaria.Web\obj\Debug\GestionInmobiliaria.Web.dll
+C:\Users\David\Desktop\SIST. DISTRIBUIDOS\SGI 1.0\SGI 1.0\SGI 1.0\Aplicacion\Source\Presentation Layer\GestionInmobiliaria.Web\obj\Debug\GestionInmobiliaria.Web.pdb

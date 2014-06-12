@@ -1,0 +1,30 @@
+E:\Reservas DSD\Aplicacion\Source\Presentation Layer\GestionInmobiliaria.Web.Tests\bin\Debug\GestionInmobiliaria.Web.Tests.dll.config
+E:\Reservas DSD\Aplicacion\Source\Presentation Layer\GestionInmobiliaria.Web.Tests\bin\Debug\GestionInmobiliaria.Web.Tests.dll
+E:\Reservas DSD\Aplicacion\Source\Presentation Layer\GestionInmobiliaria.Web.Tests\bin\Debug\GestionInmobiliaria.Web.Tests.pdb
+E:\Reservas DSD\Aplicacion\Source\Presentation Layer\GestionInmobiliaria.Web.Tests\bin\Debug\GestionInmobiliaria.Web.dll
+E:\Reservas DSD\Aplicacion\Source\Presentation Layer\GestionInmobiliaria.Web.Tests\bin\Debug\GestionInmobiliaria.Web.pdb
+E:\Reservas DSD\Aplicacion\Source\Presentation Layer\GestionInmobiliaria.Web.Tests\obj\Debug\GestionInmobiliaria.Web.Tests.csprojResolveAssemblyReference.cache
+E:\Reservas DSD\Aplicacion\Source\Presentation Layer\GestionInmobiliaria.Web.Tests\obj\Debug\GestionInmobiliaria.Web.Tests.dll
+E:\Reservas DSD\Aplicacion\Source\Presentation Layer\GestionInmobiliaria.Web.Tests\obj\Debug\GestionInmobiliaria.Web.Tests.pdb
+E:\Reservas DSD\Aplicacion\Source\Presentation Layer\GestionInmobiliaria.Web.Tests\bin\Debug\GestionInmobiliaria.BusinessEntity.dll
+E:\Reservas DSD\Aplicacion\Source\Presentation Layer\GestionInmobiliaria.Web.Tests\bin\Debug\GestionInmobiliaria.BusinessEntity.pdb
+D:\GoogleCode\SGI 1.0\Aplicacion\Source\Presentation Layer\GestionInmobiliaria.Web.Tests\bin\Debug\GestionInmobiliaria.Web.Tests.dll.config
+D:\GoogleCode\SGI 1.0\Aplicacion\Source\Presentation Layer\GestionInmobiliaria.Web.Tests\bin\Debug\GestionInmobiliaria.Web.Tests.dll
+D:\GoogleCode\SGI 1.0\Aplicacion\Source\Presentation Layer\GestionInmobiliaria.Web.Tests\bin\Debug\GestionInmobiliaria.Web.Tests.pdb
+D:\GoogleCode\SGI 1.0\Aplicacion\Source\Presentation Layer\GestionInmobiliaria.Web.Tests\bin\Debug\GestionInmobiliaria.Web.dll
+D:\GoogleCode\SGI 1.0\Aplicacion\Source\Presentation Layer\GestionInmobiliaria.Web.Tests\bin\Debug\GestionInmobiliaria.BusinessEntity.dll
+D:\GoogleCode\SGI 1.0\Aplicacion\Source\Presentation Layer\GestionInmobiliaria.Web.Tests\bin\Debug\GestionInmobiliaria.Web.pdb
+D:\GoogleCode\SGI 1.0\Aplicacion\Source\Presentation Layer\GestionInmobiliaria.Web.Tests\bin\Debug\GestionInmobiliaria.BusinessEntity.pdb
+D:\GoogleCode\SGI 1.0\Aplicacion\Source\Presentation Layer\GestionInmobiliaria.Web.Tests\obj\Debug\GestionInmobiliaria.Web.Tests.csprojResolveAssemblyReference.cache
+D:\GoogleCode\SGI 1.0\Aplicacion\Source\Presentation Layer\GestionInmobiliaria.Web.Tests\obj\Debug\GestionInmobiliaria.Web.Tests.dll
+D:\GoogleCode\SGI 1.0\Aplicacion\Source\Presentation Layer\GestionInmobiliaria.Web.Tests\obj\Debug\GestionInmobiliaria.Web.Tests.pdb
+C:\Users\David\Desktop\SIST. DISTRIBUIDOS\SGI 1.0\SGI 1.0\SGI 1.0\Aplicacion\Source\Presentation Layer\GestionInmobiliaria.Web.Tests\bin\Debug\GestionInmobiliaria.Web.Tests.dll.config
+C:\Users\David\Desktop\SIST. DISTRIBUIDOS\SGI 1.0\SGI 1.0\SGI 1.0\Aplicacion\Source\Presentation Layer\GestionInmobiliaria.Web.Tests\bin\Debug\GestionInmobiliaria.Web.Tests.dll
+C:\Users\David\Desktop\SIST. DISTRIBUIDOS\SGI 1.0\SGI 1.0\SGI 1.0\Aplicacion\Source\Presentation Layer\GestionInmobiliaria.Web.Tests\bin\Debug\GestionInmobiliaria.Web.Tests.pdb
+C:\Users\David\Desktop\SIST. DISTRIBUIDOS\SGI 1.0\SGI 1.0\SGI 1.0\Aplicacion\Source\Presentation Layer\GestionInmobiliaria.Web.Tests\bin\Debug\GestionInmobiliaria.Web.dll
+C:\Users\David\Desktop\SIST. DISTRIBUIDOS\SGI 1.0\SGI 1.0\SGI 1.0\Aplicacion\Source\Presentation Layer\GestionInmobiliaria.Web.Tests\bin\Debug\GestionInmobiliaria.BusinessEntity.dll
+C:\Users\David\Desktop\SIST. DISTRIBUIDOS\SGI 1.0\SGI 1.0\SGI 1.0\Aplicacion\Source\Presentation Layer\GestionInmobiliaria.Web.Tests\bin\Debug\GestionInmobiliaria.Web.pdb
+C:\Users\David\Desktop\SIST. DISTRIBUIDOS\SGI 1.0\SGI 1.0\SGI 1.0\Aplicacion\Source\Presentation Layer\GestionInmobiliaria.Web.Tests\bin\Debug\GestionInmobiliaria.BusinessEntity.pdb
+C:\Users\David\Desktop\SIST. DISTRIBUIDOS\SGI 1.0\SGI 1.0\SGI 1.0\Aplicacion\Source\Presentation Layer\GestionInmobiliaria.Web.Tests\obj\Debug\GestionInmobiliaria.Web.Tests.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\SIST. DISTRIBUIDOS\SGI 1.0\SGI 1.0\SGI 1.0\Aplicacion\Source\Presentation Layer\GestionInmobiliaria.Web.Tests\obj\Debug\GestionInmobiliaria.Web.Tests.dll
+C:\Users\David\Desktop\SIST. DISTRIBUIDOS\SGI 1.0\SGI 1.0\SGI 1.0\Aplicacion\Source\Presentation Layer\GestionInmobiliaria.Web.Tests\obj\Debug\GestionInmobiliaria.Web.Tests.pdb

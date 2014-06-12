@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="381ba4dd-d9db-4fdf-9e2f-79060096309b" name="César@CESAR 2013-12-07 10:01:35" runUser="CESAR\César" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="b64ee911-7f8b-4c2a-8a11-a05f8a67f318">
+    <Deployment runDeploymentRoot="César_CESAR 2013-12-07 10_01_35">
+      <DeploymentItem filename="D:\GoogleCode\SGI 1.0\Aplicacion\Source\Business Layer\GestionInmobiliaria.BusinessEntity\bin\Debug\GestionInmobiliaria.BusinessEntity.dll" />
+      <DeploymentItem filename="D:\GoogleCode\SGI 1.0\Aplicacion\Source\Presentation Layer\GestionInmobiliaria.Web\bin\GestionInmobiliaria.Web.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2013-12-07T10:01:35.5356194-05:00" queuing="2013-12-07T10:01:40.0223719-05:00" start="2013-12-07T10:01:40.1634460-05:00" finish="2013-12-07T10:01:43.5372871-05:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="5" executed="5" passed="2" error="0" failed="3" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="CrearProforma" storage="d:\googlecode\sgi 1.0\aplicacion\source\tests\gestioninmobiliaria.soapservices.tests\bin\debug\gestioninmobiliaria.soapservices.tests.dll" id="be85901a-efe1-52a1-135e-419f11cbf5a9">
+      <Execution id="064084fe-2d37-4803-81f4-91a7b40b208c" />
+      <TestMethod codeBase="D:/GoogleCode/SGI 1.0/Aplicacion/Source/Tests/GestionInmobiliaria.SOAPServices.Tests/bin/Debug/GestionInmobiliaria.SOAPServices.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GestionInmobiliaria.SOAPServices.Tests.ProformaTest, GestionInmobiliaria.SOAPServices.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CrearProforma" />
+    </UnitTest>
+    <UnitTest name="Index" storage="d:\googlecode\sgi 1.0\aplicacion\source\presentation layer\gestioninmobiliaria.web.tests\bin\debug\gestioninmobiliaria.web.tests.dll" id="ddc2d15f-72a4-7acf-2ef6-8ded2116af67">
+      <Execution id="8c4be257-7650-43b8-b23d-ec099af01a5d" />
+      <TestMethod codeBase="D:/GoogleCode/SGI 1.0/Aplicacion/Source/Presentation Layer/GestionInmobiliaria.Web.Tests/bin/Debug/GestionInmobiliaria.Web.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GestionInmobiliaria.Web.Tests.Controllers.HomeControllerTest, GestionInmobiliaria.Web.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Index" />
+    </UnitTest>
+    <UnitTest name="TestMethod1" storage="d:\googlecode\sgi 1.0\aplicacion\source\tests\gestioninmobiliaria.soapservices.tests\bin\debug\gestioninmobiliaria.soapservices.tests.dll" id="c8e1efb1-680f-1816-e582-bd215e2ed4b1">
+      <Execution id="e8f37804-f31e-49b1-820d-fdc1368574d3" />
+      <TestMethod codeBase="D:/GoogleCode/SGI 1.0/Aplicacion/Source/Tests/GestionInmobiliaria.SOAPServices.Tests/bin/Debug/GestionInmobiliaria.SOAPServices.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GestionInmobiliaria.SOAPServices.Tests.ProyectoTest, GestionInmobiliaria.SOAPServices.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod1" />
+    </UnitTest>
+    <UnitTest name="AgregarTest" storage="d:\googlecode\sgi 1.0\aplicacion\source\tests\gestioninmobiliaria.restservices.tests\bin\debug\gestioninmobiliaria.restservices.tests.dll" id="07554af4-2bee-cf61-7070-6a1acb6b8f4d">
+      <Execution id="267467cc-d376-4196-a3f0-3011ee7cfcf3" />
+      <TestMethod codeBase="D:/GoogleCode/SGI 1.0/Aplicacion/Source/Tests/GestionInmobiliaria.RESTServices.Tests/bin/Debug/GestionInmobiliaria.RESTServices.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GestionInmobiliaria.RESTServices.Tests.UnidadInmobiliariasTest, GestionInmobiliaria.RESTServices.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="AgregarTest" />
+    </UnitTest>
+    <UnitTest name="About" storage="d:\googlecode\sgi 1.0\aplicacion\source\presentation layer\gestioninmobiliaria.web.tests\bin\debug\gestioninmobiliaria.web.tests.dll" id="a29edc94-a3c1-72d0-9b5c-75a6d8ff12d0">
+      <Execution id="e7865936-26bb-41fa-b084-a1bf79c85b04" />
+      <TestMethod codeBase="D:/GoogleCode/SGI 1.0/Aplicacion/Source/Presentation Layer/GestionInmobiliaria.Web.Tests/bin/Debug/GestionInmobiliaria.Web.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GestionInmobiliaria.Web.Tests.Controllers.HomeControllerTest, GestionInmobiliaria.Web.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="About" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="07554af4-2bee-cf61-7070-6a1acb6b8f4d" executionId="267467cc-d376-4196-a3f0-3011ee7cfcf3" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a29edc94-a3c1-72d0-9b5c-75a6d8ff12d0" executionId="e7865936-26bb-41fa-b084-a1bf79c85b04" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="be85901a-efe1-52a1-135e-419f11cbf5a9" executionId="064084fe-2d37-4803-81f4-91a7b40b208c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c8e1efb1-680f-1816-e582-bd215e2ed4b1" executionId="e8f37804-f31e-49b1-820d-fdc1368574d3" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ddc2d15f-72a4-7acf-2ef6-8ded2116af67" executionId="8c4be257-7650-43b8-b23d-ec099af01a5d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="267467cc-d376-4196-a3f0-3011ee7cfcf3" testId="07554af4-2bee-cf61-7070-6a1acb6b8f4d" testName="AgregarTest" computerName="CESAR" duration="00:00:01.3042700" startTime="2013-12-07T10:01:40.2755432-05:00" endTime="2013-12-07T10:01:42.4183457-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="267467cc-d376-4196-a3f0-3011ee7cfcf3">
+      <Output>
+        <ErrorInfo>
+          <Message>Error de Assert.AreEqual. Se esperaba &lt;La unidad inmobiliaria ya existe.&gt;, pero es &lt;Ya existe una unidad inmobiliaria para el proyecto 3, etapa 1 y edificio 1.&gt;. </Message>
+          <StackTrace>   en GestionInmobiliaria.RESTServices.Tests.UnidadInmobiliariasTest.AgregarTest() en D:\GoogleCode\SGI 1.0\Aplicacion\Source\Tests\GestionInmobiliaria.RESTServices.Tests\UnidadInmobiliariasTest.cs:línea 111
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="e7865936-26bb-41fa-b084-a1bf79c85b04" testId="a29edc94-a3c1-72d0-9b5c-75a6d8ff12d0" testName="About" computerName="CESAR" duration="00:00:00.0396631" startTime="2013-12-07T10:01:42.4233556-05:00" endTime="2013-12-07T10:01:42.7236026-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e7865936-26bb-41fa-b084-a1bf79c85b04">
+    </UnitTestResult>
+    <UnitTestResult executionId="064084fe-2d37-4803-81f4-91a7b40b208c" testId="be85901a-efe1-52a1-135e-419f11cbf5a9" testName="CrearProforma" computerName="CESAR" duration="00:00:00.1216028" startTime="2013-12-07T10:01:42.7316132-05:00" endTime="2013-12-07T10:01:43.1699770-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="064084fe-2d37-4803-81f4-91a7b40b208c">
+      <Output>
+        <ErrorInfo>
+          <Message>Error de Assert.AreEqual. Se esperaba &lt;Error de Assert.AreEqual. Se esperaba &lt;3&gt;, pero es &lt;7&gt;. &gt;, pero es &lt;No se pudo insertar el registro en la base de datos.&gt;. </Message>
+          <StackTrace>   en GestionInmobiliaria.SOAPServices.Tests.ProformaTest.CrearProforma() en D:\GoogleCode\SGI 1.0\Aplicacion\Source\Tests\GestionInmobiliaria.SOAPServices.Tests\ProformaTest.cs:línea 40
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="e8f37804-f31e-49b1-820d-fdc1368574d3" testId="c8e1efb1-680f-1816-e582-bd215e2ed4b1" testName="TestMethod1" computerName="CESAR" duration="00:00:00.0880808" startTime="2013-12-07T10:01:43.1729824-05:00" endTime="2013-12-07T10:01:43.2640562-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e8f37804-f31e-49b1-820d-fdc1368574d3">
+      <Output>
+        <ErrorInfo>
+          <Message>Error de Assert.AreEqual. Se esperaba &lt;4&gt;, pero es &lt;12&gt;. </Message>
+          <StackTrace>   en GestionInmobiliaria.SOAPServices.Tests.ProyectoTest.TestMethod1() en D:\GoogleCode\SGI 1.0\Aplicacion\Source\Tests\GestionInmobiliaria.SOAPServices.Tests\ProyectoTest.cs:línea 55
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="8c4be257-7650-43b8-b23d-ec099af01a5d" testId="ddc2d15f-72a4-7acf-2ef6-8ded2116af67" testName="Index" computerName="CESAR" duration="00:00:00.1361319" startTime="2013-12-07T10:01:43.2680595-05:00" endTime="2013-12-07T10:01:43.4082468-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="8c4be257-7650-43b8-b23d-ec099af01a5d">
+    </UnitTestResult>
+  </Results>
+</TestRun>

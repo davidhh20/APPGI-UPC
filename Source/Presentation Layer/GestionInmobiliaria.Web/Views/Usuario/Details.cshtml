@@ -1,0 +1,38 @@
+﻿@model GestionInmobiliaria.Web.UsuarioWS.Usuario
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<fieldset>
+    <legend>Usuario</legend>
+
+    @Html.HiddenFor(model => model.id)
+
+    <div class="display-label">Login</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.login)
+    </div>
+
+    <div class="display-label">Clave</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.clave)
+    </div>
+
+    <div class="display-label">Admin</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.admin)
+    </div>
+
+    <div class="display-label">Rol</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Rol.id)
+    </div>
+</fieldset>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

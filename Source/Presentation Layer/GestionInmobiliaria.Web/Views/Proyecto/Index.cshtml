@@ -1,0 +1,54 @@
+﻿@model IEnumerable<GestionInmobiliaria.Web.ProyectoWS.Proyecto>
+           
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Listado de Proyectos</h2>
+
+<p>
+    @Html.ActionLink("Agregar proyecto", "Create")
+</p>
+<table class="table table-hover">
+    <tr>
+        <th>Id</th>
+        <th>Nombre</th>
+        <th>Dirección</th>
+        <th>Fecha Creación</th>
+        <th>Fecha Inicio</th>
+        <th>Fecha Entrega</th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr class="active">
+        <td>
+            @Html.DisplayFor(modelItem => item.id)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Nombre)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Direccion)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.FechaCreacion)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.FechaInicio)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.FechaEntrega)
+        </td>
+        <td>
+            @Html.ActionLink("Editar", "Edit", new { id = item.id }) |
+            @Html.ActionLink("Ver detalle", "Details", new { id = item.id }) |
+            @Html.ActionLink("Eliminar", "Delete", new { id = item.id })
+        </td>
+    </tr>
+}
+
+</table>
+
+@Html.ActionLink("Regresar a Principal", "../Home")

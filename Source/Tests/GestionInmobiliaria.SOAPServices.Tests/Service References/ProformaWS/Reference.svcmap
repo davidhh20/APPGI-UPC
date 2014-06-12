@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="801601de-4521-42ab-81b3-6a2ece47c43c" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:1189/ProformaService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="ProformaService.xsd" MetadataType="Schema" ID="f2c71c6c-c9a2-4469-85a2-1c86ced114d1" SourceId="1" SourceUrl="http://localhost:1189/ProformaService.svc?xsd=xsd1" />
+    <MetadataFile FileName="ProformaService.wsdl" MetadataType="Wsdl" ID="0aebdf7a-3973-4df3-9c35-c5cb6335c993" SourceId="1" SourceUrl="http://localhost:1189/ProformaService.svc?wsdl" />
+    <MetadataFile FileName="ProformaService1.xsd" MetadataType="Schema" ID="1b08565e-b9bc-4a32-b372-4f9cce406a36" SourceId="1" SourceUrl="http://localhost:1189/ProformaService.svc?xsd=xsd2" />
+    <MetadataFile FileName="ProformaService.disco" MetadataType="Disco" ID="1d8c1c63-4e8c-4172-9597-54a01e7b2072" SourceId="1" SourceUrl="http://localhost:1189/ProformaService.svc?disco" />
+    <MetadataFile FileName="ProformaService2.xsd" MetadataType="Schema" ID="1ee52db9-eb04-418e-971b-10f6fa5e47ec" SourceId="1" SourceUrl="http://localhost:1189/ProformaService.svc?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

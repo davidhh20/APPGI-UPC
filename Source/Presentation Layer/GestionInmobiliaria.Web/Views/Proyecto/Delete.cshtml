@@ -1,0 +1,47 @@
+﻿@model GestionInmobiliaria.Web.ProyectoWS.Proyecto
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<fieldset>
+    <legend>Proyecto</legend>
+
+    @Html.HiddenFor(model => model.id)
+
+    <div class="display-label">Nombre</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Nombre)
+    </div>
+
+    <div class="display-label">Dirección</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Direccion)
+    </div>
+
+    <div class="display-label">Fecha creación</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.FechaCreacion)
+    </div>
+
+    <div class="display-label">Fecha inicio</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.FechaInicio)
+    </div>
+
+    <div class="display-label">Fecha entrega</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.FechaEntrega)
+    </div>
+</fieldset>
+
+@using (Html.BeginForm()) {
+    <p>
+        <input type="submit" value="Delete" /> |
+        @Html.ActionLink("Back to List", "Index")
+    </p>
+}

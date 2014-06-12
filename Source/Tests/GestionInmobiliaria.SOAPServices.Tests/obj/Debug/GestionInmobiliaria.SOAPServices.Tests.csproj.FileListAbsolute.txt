@@ -1,0 +1,16 @@
+D:\GoogleCode\SGI 3.0\Source\Tests\GestionInmobiliaria.SOAPServices.Tests\bin\Debug\GestionInmobiliaria.SOAPServices.Tests.dll
+D:\GoogleCode\SGI 3.0\Source\Tests\GestionInmobiliaria.SOAPServices.Tests\bin\Debug\GestionInmobiliaria.SOAPServices.Tests.pdb
+D:\GoogleCode\SGI 3.0\Source\Tests\GestionInmobiliaria.SOAPServices.Tests\obj\Debug\GestionInmobiliaria.SOAPServices.Tests.dll
+D:\GoogleCode\SGI 3.0\Source\Tests\GestionInmobiliaria.SOAPServices.Tests\obj\Debug\GestionInmobiliaria.SOAPServices.Tests.pdb
+E:\Reservas DSD\Aplicacion\Source\Tests\GestionInmobiliaria.SOAPServices.Tests\obj\Debug\GestionInmobiliaria.SOAPServices.Tests.csprojResolveAssemblyReference.cache
+E:\Reservas DSD\Aplicacion\Source\Tests\GestionInmobiliaria.SOAPServices.Tests\obj\Debug\GestionInmobiliaria.SOAPServices.Tests.dll
+E:\Reservas DSD\Aplicacion\Source\Tests\GestionInmobiliaria.SOAPServices.Tests\obj\Debug\GestionInmobiliaria.SOAPServices.Tests.pdb
+E:\Reservas DSD\Aplicacion\Source\Tests\GestionInmobiliaria.SOAPServices.Tests\bin\Debug\GestionInmobiliaria.SOAPServices.Tests.dll.config
+E:\Reservas DSD\Aplicacion\Source\Tests\GestionInmobiliaria.SOAPServices.Tests\bin\Debug\GestionInmobiliaria.SOAPServices.Tests.dll
+E:\Reservas DSD\Aplicacion\Source\Tests\GestionInmobiliaria.SOAPServices.Tests\bin\Debug\GestionInmobiliaria.SOAPServices.Tests.pdb
+D:\GoogleCode\SGI 1.0\Aplicacion\Source\Tests\GestionInmobiliaria.SOAPServices.Tests\bin\Debug\GestionInmobiliaria.SOAPServices.Tests.dll.config
+D:\GoogleCode\SGI 1.0\Aplicacion\Source\Tests\GestionInmobiliaria.SOAPServices.Tests\bin\Debug\GestionInmobiliaria.SOAPServices.Tests.dll
+D:\GoogleCode\SGI 1.0\Aplicacion\Source\Tests\GestionInmobiliaria.SOAPServices.Tests\bin\Debug\GestionInmobiliaria.SOAPServices.Tests.pdb
+D:\GoogleCode\SGI 1.0\Aplicacion\Source\Tests\GestionInmobiliaria.SOAPServices.Tests\obj\Debug\GestionInmobiliaria.SOAPServices.Tests.dll
+D:\GoogleCode\SGI 1.0\Aplicacion\Source\Tests\GestionInmobiliaria.SOAPServices.Tests\obj\Debug\GestionInmobiliaria.SOAPServices.Tests.pdb
+D:\GoogleCode\SGI 1.0\Aplicacion\Source\Tests\GestionInmobiliaria.SOAPServices.Tests\obj\Debug\GestionInmobiliaria.SOAPServices.Tests.csprojResolveAssemblyReference.cache

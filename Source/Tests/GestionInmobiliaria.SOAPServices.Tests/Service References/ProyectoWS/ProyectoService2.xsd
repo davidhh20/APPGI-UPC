@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/GestionInmobiliaria.BusinessEntity" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/GestionInmobiliaria.BusinessEntity" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="ArrayOfProyecto">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Proyecto" nillable="true" type="tns:Proyecto" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfProyecto" nillable="true" type="tns:ArrayOfProyecto" />
+  <xs:complexType name="Proyecto">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Anulado" type="xs:boolean" />
+      <xs:element minOccurs="0" name="CuotaInicialMonto" type="xs:decimal" />
+      <xs:element minOccurs="0" name="CuotaInicialPorcentaje" type="xs:decimal" />
+      <xs:element minOccurs="0" name="DescuentoMonto" type="xs:decimal" />
+      <xs:element minOccurs="0" name="DescuentoPorcentaje" type="xs:decimal" />
+      <xs:element minOccurs="0" name="Direccion" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="FechaCreacion" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="FechaEntrega" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="FechaInicio" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="IdEstado" type="xs:int" />
+      <xs:element minOccurs="0" name="Imagen" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Marcador" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="MiVivienda" type="xs:boolean" />
+      <xs:element minOccurs="0" name="MontoSeparacion" type="xs:decimal" />
+      <xs:element minOccurs="0" name="Nombre" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="NumeroInmuebles" type="xs:int" />
+      <xs:element minOccurs="0" name="Observaciones" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="PeriodoEstacional" type="xs:int" />
+      <xs:element minOccurs="0" name="TechoPropio" type="xs:boolean" />
+      <xs:element minOccurs="0" name="Ubicacion" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="id" type="xs:int" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Proyecto" nillable="true" type="tns:Proyecto" />
+</xs:schema>

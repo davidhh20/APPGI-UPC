@@ -1,0 +1,219 @@
+﻿@model GestionInmobiliaria.Web.ProyectoWS.Proyecto
+           
+@{
+    ViewBag.Title = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Create</h2>
+
+<script src="@Url.Content("~/Scripts/jquery.validate.min.js")" type="text/javascript"></script>
+<script src="@Url.Content("~/Scripts/jquery.validate.unobtrusive.min.js")" type="text/javascript"></script>
+
+@using (Html.BeginForm()) {
+    @Html.ValidationSummary(true)
+    <fieldset>
+        <legend>Proyecto</legend>
+
+        
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Nombre)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Nombre)
+            @Html.ValidationMessageFor(model => model.Nombre)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Direccion)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Direccion)
+            @Html.ValidationMessageFor(model => model.Direccion)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.TechoPropio)
+        </div>
+        <div class="editor-field">
+            @Html.DropDownListFor(model => model.TechoPropio, new SelectList(
+                              new List<Object>{ 
+                                   new { value = -1 , text = "-- Seleccionar --" },
+                                   new { value = 0 , text = "No" },
+                                   new { value = 1 , text = "Si" }
+                                },
+                              "value",
+                              "text",
+                               -1))
+
+            @Html.ValidationMessageFor(model => model.TechoPropio)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.MiVivienda)
+        </div>
+        <div class="editor-field">
+            @Html.DropDownListFor(model => model.MiVivienda, new SelectList(
+                              new List<Object>{ 
+                                   new { value = -1 , text = "-- Seleccionar --" },
+                                   new { value = 0 , text = "No" },
+                                   new { value = 1 , text = "Si" }
+                                },
+                              "value",
+                              "text",
+                               -1))
+
+            @Html.ValidationMessageFor(model => model.MiVivienda)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Observaciones)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Observaciones)
+            @Html.ValidationMessageFor(model => model.Observaciones)
+        </div>
+
+                <div class="editor-label">
+            @Html.LabelFor(model => model.NumeroInmuebles)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.NumeroInmuebles)
+            @Html.ValidationMessageFor(model => model.NumeroInmuebles)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.MontoSeparacion)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.MontoSeparacion)
+            @Html.ValidationMessageFor(model => model.MontoSeparacion)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.DescuentoPorcentaje)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.DescuentoPorcentaje)
+            @Html.ValidationMessageFor(model => model.DescuentoPorcentaje)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.DescuentoMonto)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.DescuentoMonto)
+            @Html.ValidationMessageFor(model => model.DescuentoMonto)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.FechaCreacion)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.FechaCreacion)
+            @Html.ValidationMessageFor(model => model.FechaCreacion)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.FechaInicio)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.FechaInicio)
+            @Html.ValidationMessageFor(model => model.FechaInicio)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.FechaEntrega)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.FechaEntrega)
+            @Html.ValidationMessageFor(model => model.FechaEntrega)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.CuotaInicialPorcentaje)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.CuotaInicialPorcentaje)
+            @Html.ValidationMessageFor(model => model.CuotaInicialPorcentaje)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.CuotaInicialMonto)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.CuotaInicialMonto)
+            @Html.ValidationMessageFor(model => model.CuotaInicialMonto)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.PeriodoEstacional)
+        </div>
+        <div class="editor-field">
+            @Html.DropDownListFor(model => model.PeriodoEstacional, new SelectList(
+                              new List<Object>{ 
+                                   new { value = 0 , text = "-- Seleccionar --" },
+                                   new { value = 1 , text = "Primavera" },
+                                   new { value = 2 , text = "Verano" },
+                                   new { value = 3 , text = "Otoño" },
+                                   new { value = 4 , text = "Invierno" }
+                                },
+                              "value",
+                              "text",
+                               0))
+
+            @Html.ValidationMessageFor(model => model.MiVivienda)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.IdEstado)
+        </div>
+        <div class="editor-field">
+            @Html.DropDownListFor(model => model.IdEstado, new SelectList(
+                              new List<Object>{ 
+                                   new { value = 0 , text = "-- Seleccionar --" },
+                                   new { value = 1 , text = "Estado 1" },
+                                   new { value = 2 , text = "Estado 2" },
+                                   new { value = 3 , text = "Estado 3" },
+                                   new { value = 4 , text = "Estado 4" }
+                                },
+                              "value",
+                              "text",
+                               0))
+
+            @Html.ValidationMessageFor(model => model.MiVivienda)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Imagen)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Imagen)
+            @Html.ValidationMessageFor(model => model.Imagen)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Ubicacion)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Ubicacion)
+            @Html.ValidationMessageFor(model => model.Ubicacion)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Marcador)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Marcador)
+            @Html.ValidationMessageFor(model => model.Marcador)
+        </div>
+
+        <p>
+            <input type="submit" value="Create" />
+        </p>
+    </fieldset>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>

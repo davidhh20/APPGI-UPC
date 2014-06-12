@@ -1,0 +1,63 @@
+﻿@model IEnumerable<GestionInmobiliaria.BusinessEntity.UnidadInmobiliaria>
+           
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Listado de Unidades Inmobiliarias</h2>
+
+<p>
+    @Html.ActionLink("Agregar unidad", "Create")
+</p>
+<table class="table table-hover">
+    <tr>
+        <th>Id</th>
+        <th>N° Inmueble</th>
+        <th>Dirección</th>
+        <th>Observaciones</th>
+        <th>Area</th>
+        <th># Dormitorios</th>
+        <th># Baños</th>
+        <th>Precio venta</th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr class="active">
+        <td>
+            @Html.DisplayFor(modelItem => item.id)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NroInmuebleActual)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Direccion)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Observaciones)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.AreaTerreno)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NumDormitorio)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NumBanios)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.PrecioVenta)
+        </td>
+        <td>
+            @Html.ActionLink("Editar", "Edit", new { id = item.id }) |
+            @Html.ActionLink("Ver detalle", "Details", new { id = item.id }) |
+            @Html.ActionLink("Eliminar", "Delete", new { id = item.id })
+        </td>
+    </tr>
+}
+
+</table>
+
+
+@Html.ActionLink("Regresar a Principal", "../Home")

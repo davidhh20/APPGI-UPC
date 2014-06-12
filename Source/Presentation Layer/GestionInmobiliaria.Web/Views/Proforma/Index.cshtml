@@ -1,0 +1,69 @@
+﻿@model IEnumerable<GestionInmobiliaria.Web.ProformaWS.Proforma>
+           @{
+              ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+           
+
+}
+
+<h2>Listado de Proformas</h2>
+
+<p>
+    <a href="@Url.Action("Create")" class="btn btn-primary">Agregar Nueva Proforma</a>
+   @* @Html.ActionLink("Agregar Nueva Proforma", "Create")*@
+</p>
+
+<table class="table table-hover">
+    <tr>
+        <th>Id</th>
+        <th>Fecha</th>
+        <th>Cliente</th>
+        <th>Cantidad</th>
+        <th>IdMoneda</th>
+        <th>Subtotal</th>
+        <th>Igv</th>
+        <th>Total</th>
+        <th>IdUnidadInmoviliaria</th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr class="active">
+        <td>
+            @Html.DisplayFor(modelItem => item.IdProforma)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Fecproforma)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Cliente)
+        </td>
+         <td>
+            @Html.DisplayFor(modelItem => item.Cantidad)
+        </td>
+         <td>
+            @Html.DisplayFor(modelItem => item.idmoneda)
+        </td>
+         <td>
+            @Html.DisplayFor(modelItem => item.Subotal)
+        </td>
+         <td>
+            @Html.DisplayFor(modelItem => item.Igv)
+        </td>
+         <td>
+            @Html.DisplayFor(modelItem => item.Total)
+        </td>
+         <td>
+            @Html.DisplayFor(modelItem => item.Idunidadinmobiliaria)
+        </td>
+        <td>
+          @*  @Html.ActionLink("Editar", "Edit", new {  id=item.id}) |
+            @Html.ActionLink("Ver detalle", "Details", new { id=item.id }) |
+            @Html.ActionLink("Eliminar", "Delete", new {  id=item.id })*@
+        </td>
+    </tr>
+}
+
+</table>
+
+@Html.ActionLink("Regresar a Principal", "../Home")

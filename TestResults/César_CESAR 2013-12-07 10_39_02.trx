@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="20f4dbaf-f887-48bf-9e27-4899219ebe4a" name="César@CESAR 2013-12-07 10:39:02" runUser="CESAR\César" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="b13213fe-812d-406a-a62a-7b4695a8813c">
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+    <Deployment runDeploymentRoot="César_CESAR 2013-12-07 10_39_02" />
+  </TestSettings>
+  <Times creation="2013-12-07T10:39:02.6054893-05:00" queuing="2013-12-07T10:39:02.8977367-05:00" start="2013-12-07T10:39:02.9087450-05:00" finish="2013-12-07T10:39:03.3090830-05:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="CrearProforma" storage="d:\googlecode\sgi 1.0\aplicacion\source\tests\gestioninmobiliaria.soapservices.tests\bin\debug\gestioninmobiliaria.soapservices.tests.dll" id="be85901a-efe1-52a1-135e-419f11cbf5a9">
+      <Execution id="82ba8df8-4e15-404d-b691-8e6c605c033f" />
+      <TestMethod codeBase="D:/GoogleCode/SGI 1.0/Aplicacion/Source/Tests/GestionInmobiliaria.SOAPServices.Tests/bin/Debug/GestionInmobiliaria.SOAPServices.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GestionInmobiliaria.SOAPServices.Tests.ProformaTest, GestionInmobiliaria.SOAPServices.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CrearProforma" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="be85901a-efe1-52a1-135e-419f11cbf5a9" executionId="82ba8df8-4e15-404d-b691-8e6c605c033f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="82ba8df8-4e15-404d-b691-8e6c605c033f" testId="be85901a-efe1-52a1-135e-419f11cbf5a9" testName="CrearProforma" computerName="CESAR" duration="00:00:00.1154592" startTime="2013-12-07T10:39:02.9137497-05:00" endTime="2013-12-07T10:39:03.2870630-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="82ba8df8-4e15-404d-b691-8e6c605c033f">
+      <Output>
+        <ErrorInfo>
+          <Message>Error de Assert.AreEqual. Se esperaba &lt;Error de Assert.AreEqual. Se esperaba &lt;11&gt;, pero es &lt;7&gt;. &gt;, pero es &lt;No se pudo insertar el registro en la base de datos.&gt;. </Message>
+          <StackTrace>   en GestionInmobiliaria.SOAPServices.Tests.ProformaTest.CrearProforma() en D:\GoogleCode\SGI 1.0\Aplicacion\Source\Tests\GestionInmobiliaria.SOAPServices.Tests\ProformaTest.cs:línea 40
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

@@ -1,0 +1,122 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Libs", "Libs", "{24AEB805-FA9B-4177-96CF-D9A81A95F0CD}"
+	ProjectSection(SolutionItems) = preProject
+		Libs\Microsoft.Practices.EnterpriseLibrary.Common.dll = Libs\Microsoft.Practices.EnterpriseLibrary.Common.dll
+		Libs\Microsoft.Practices.EnterpriseLibrary.Data.dll = Libs\Microsoft.Practices.EnterpriseLibrary.Data.dll
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Source", "Source", "{D1D37ABE-756A-4397-9D7A-0E5697966C59}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{6064E623-4F1D-4CA8-96F0-1FA529E57486}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Business Layer", "Business Layer", "{D1D3CEE6-D0F1-4638-AEF1-FD68C03CC028}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data Access Layer", "Data Access Layer", "{7AAFB708-55A9-45F1-8F26-56D1AE7A7598}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation Layer", "Presentation Layer", "{FE13EA33-48F4-4BBC-881E-EF64D49DA88F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{D96472B9-0A82-4038-B5E9-2061AB9B1491}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{AA106998-BB2D-4C22-9E0A-FFD65DA0F4AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestionInmobiliaria.BusinessEntity", "Source\Business Layer\GestionInmobiliaria.BusinessEntity\GestionInmobiliaria.BusinessEntity.csproj", "{F557CD28-E019-4A7C-8F18-F4DA557D6431}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestionInmobiliaria.BusinessLogic", "Source\Business Layer\GestionInmobiliaria.BusinessLogic\GestionInmobiliaria.BusinessLogic.csproj", "{27FD729D-E832-484A-9ABF-6EF2AFA42B93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestionInmobiliaria.Utils", "Source\Business Layer\GestionInmobiliaria.Utils\GestionInmobiliaria.Utils.csproj", "{19FBC898-BF5D-49C8-85C6-633A5EF343EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestionInmobiliaria.DataAccess", "Source\Data Access Layer\GestionInmobiliaria.DataAccess\GestionInmobiliaria.DataAccess.csproj", "{1590BB7E-6414-4423-BD0F-62BD5A3FCA8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestionInmobiliaria.SOAPServices", "Source\Services\GestionInmobiliaria.SOAPServices\GestionInmobiliaria.SOAPServices.csproj", "{7B95DB9A-965E-426C-A5B7-56B681E768FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestionInmobiliaria.SOAPServices.Tests", "Source\Tests\GestionInmobiliaria.SOAPServices.Tests\GestionInmobiliaria.SOAPServices.Tests.csproj", "{ED8558D1-2E06-4D4D-9230-F68D5EFE4479}"
+	ProjectSection(ProjectDependencies) = postProject
+		{7B95DB9A-965E-426C-A5B7-56B681E768FA} = {7B95DB9A-965E-426C-A5B7-56B681E768FA}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestionInmobiliaria.Web", "Source\Presentation Layer\GestionInmobiliaria.Web\GestionInmobiliaria.Web.csproj", "{B0D2433A-37B3-40A5-BF6C-9F2A008807CC}"
+	ProjectSection(ProjectDependencies) = postProject
+		{7B95DB9A-965E-426C-A5B7-56B681E768FA} = {7B95DB9A-965E-426C-A5B7-56B681E768FA}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestionInmobiliaria.Web.Tests", "Source\Presentation Layer\GestionInmobiliaria.Web.Tests\GestionInmobiliaria.Web.Tests.csproj", "{C900B8A6-8B2E-4B00-AFF4-9A8324809F5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestionInmobiliaria.RESTServices", "Source\Services\GestionInmobiliaria.RESTServices\GestionInmobiliaria.RESTServices.csproj", "{EA9117F0-F077-4021-9085-4728EE17CEC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestionInmobiliaria.RESTServices.Tests", "Source\Tests\GestionInmobiliaria.RESTServices.Tests\GestionInmobiliaria.RESTServices.Tests.csproj", "{D6E9C7EF-2A07-4220-894A-BEBC36D14C9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F557CD28-E019-4A7C-8F18-F4DA557D6431}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F557CD28-E019-4A7C-8F18-F4DA557D6431}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F557CD28-E019-4A7C-8F18-F4DA557D6431}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F557CD28-E019-4A7C-8F18-F4DA557D6431}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27FD729D-E832-484A-9ABF-6EF2AFA42B93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27FD729D-E832-484A-9ABF-6EF2AFA42B93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27FD729D-E832-484A-9ABF-6EF2AFA42B93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27FD729D-E832-484A-9ABF-6EF2AFA42B93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19FBC898-BF5D-49C8-85C6-633A5EF343EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19FBC898-BF5D-49C8-85C6-633A5EF343EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19FBC898-BF5D-49C8-85C6-633A5EF343EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19FBC898-BF5D-49C8-85C6-633A5EF343EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1590BB7E-6414-4423-BD0F-62BD5A3FCA8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1590BB7E-6414-4423-BD0F-62BD5A3FCA8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1590BB7E-6414-4423-BD0F-62BD5A3FCA8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1590BB7E-6414-4423-BD0F-62BD5A3FCA8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B95DB9A-965E-426C-A5B7-56B681E768FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B95DB9A-965E-426C-A5B7-56B681E768FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B95DB9A-965E-426C-A5B7-56B681E768FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B95DB9A-965E-426C-A5B7-56B681E768FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED8558D1-2E06-4D4D-9230-F68D5EFE4479}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED8558D1-2E06-4D4D-9230-F68D5EFE4479}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED8558D1-2E06-4D4D-9230-F68D5EFE4479}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED8558D1-2E06-4D4D-9230-F68D5EFE4479}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0D2433A-37B3-40A5-BF6C-9F2A008807CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0D2433A-37B3-40A5-BF6C-9F2A008807CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0D2433A-37B3-40A5-BF6C-9F2A008807CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0D2433A-37B3-40A5-BF6C-9F2A008807CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C900B8A6-8B2E-4B00-AFF4-9A8324809F5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C900B8A6-8B2E-4B00-AFF4-9A8324809F5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C900B8A6-8B2E-4B00-AFF4-9A8324809F5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C900B8A6-8B2E-4B00-AFF4-9A8324809F5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA9117F0-F077-4021-9085-4728EE17CEC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA9117F0-F077-4021-9085-4728EE17CEC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA9117F0-F077-4021-9085-4728EE17CEC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA9117F0-F077-4021-9085-4728EE17CEC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6E9C7EF-2A07-4220-894A-BEBC36D14C9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6E9C7EF-2A07-4220-894A-BEBC36D14C9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6E9C7EF-2A07-4220-894A-BEBC36D14C9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6E9C7EF-2A07-4220-894A-BEBC36D14C9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D1D3CEE6-D0F1-4638-AEF1-FD68C03CC028} = {D1D37ABE-756A-4397-9D7A-0E5697966C59}
+		{7AAFB708-55A9-45F1-8F26-56D1AE7A7598} = {D1D37ABE-756A-4397-9D7A-0E5697966C59}
+		{FE13EA33-48F4-4BBC-881E-EF64D49DA88F} = {D1D37ABE-756A-4397-9D7A-0E5697966C59}
+		{D96472B9-0A82-4038-B5E9-2061AB9B1491} = {D1D37ABE-756A-4397-9D7A-0E5697966C59}
+		{AA106998-BB2D-4C22-9E0A-FFD65DA0F4AA} = {D1D37ABE-756A-4397-9D7A-0E5697966C59}
+		{F557CD28-E019-4A7C-8F18-F4DA557D6431} = {D1D3CEE6-D0F1-4638-AEF1-FD68C03CC028}
+		{27FD729D-E832-484A-9ABF-6EF2AFA42B93} = {D1D3CEE6-D0F1-4638-AEF1-FD68C03CC028}
+		{19FBC898-BF5D-49C8-85C6-633A5EF343EE} = {D1D3CEE6-D0F1-4638-AEF1-FD68C03CC028}
+		{1590BB7E-6414-4423-BD0F-62BD5A3FCA8D} = {7AAFB708-55A9-45F1-8F26-56D1AE7A7598}
+		{B0D2433A-37B3-40A5-BF6C-9F2A008807CC} = {FE13EA33-48F4-4BBC-881E-EF64D49DA88F}
+		{7B95DB9A-965E-426C-A5B7-56B681E768FA} = {D96472B9-0A82-4038-B5E9-2061AB9B1491}
+		{EA9117F0-F077-4021-9085-4728EE17CEC1} = {D96472B9-0A82-4038-B5E9-2061AB9B1491}
+		{ED8558D1-2E06-4D4D-9230-F68D5EFE4479} = {AA106998-BB2D-4C22-9E0A-FFD65DA0F4AA}
+		{C900B8A6-8B2E-4B00-AFF4-9A8324809F5F} = {AA106998-BB2D-4C22-9E0A-FFD65DA0F4AA}
+		{D6E9C7EF-2A07-4220-894A-BEBC36D14C9B} = {AA106998-BB2D-4C22-9E0A-FFD65DA0F4AA}
+	EndGlobalSection
+EndGlobal

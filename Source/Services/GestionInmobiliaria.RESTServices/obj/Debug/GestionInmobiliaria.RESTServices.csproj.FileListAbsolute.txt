@@ -1,0 +1,84 @@
+E:\Trabajo DSD\Aplicacion\Source\Services\GestionInmobiliaria.RESTServices\bin\GestionInmobiliaria.RESTServices.dll
+E:\Trabajo DSD\Aplicacion\Source\Services\GestionInmobiliaria.RESTServices\bin\GestionInmobiliaria.RESTServices.pdb
+E:\Trabajo DSD\Aplicacion\Source\Services\GestionInmobiliaria.RESTServices\bin\GestionInmobiliaria.BusinessEntity.dll
+E:\Trabajo DSD\Aplicacion\Source\Services\GestionInmobiliaria.RESTServices\bin\GestionInmobiliaria.BusinessLogic.dll
+E:\Trabajo DSD\Aplicacion\Source\Services\GestionInmobiliaria.RESTServices\bin\GestionInmobiliaria.Utils.dll
+E:\Trabajo DSD\Aplicacion\Source\Services\GestionInmobiliaria.RESTServices\bin\GestionInmobiliaria.DataAccess.dll
+E:\Trabajo DSD\Aplicacion\Source\Services\GestionInmobiliaria.RESTServices\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\Trabajo DSD\Aplicacion\Source\Services\GestionInmobiliaria.RESTServices\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\Trabajo DSD\Aplicacion\Source\Services\GestionInmobiliaria.RESTServices\bin\Microsoft.Practices.ServiceLocation.dll
+E:\Trabajo DSD\Aplicacion\Source\Services\GestionInmobiliaria.RESTServices\bin\Microsoft.Practices.Unity.dll
+E:\Trabajo DSD\Aplicacion\Source\Services\GestionInmobiliaria.RESTServices\bin\Microsoft.Practices.Unity.Interception.dll
+E:\Trabajo DSD\Aplicacion\Source\Services\GestionInmobiliaria.RESTServices\bin\GestionInmobiliaria.BusinessEntity.pdb
+E:\Trabajo DSD\Aplicacion\Source\Services\GestionInmobiliaria.RESTServices\bin\GestionInmobiliaria.BusinessLogic.pdb
+E:\Trabajo DSD\Aplicacion\Source\Services\GestionInmobiliaria.RESTServices\bin\GestionInmobiliaria.Utils.pdb
+E:\Trabajo DSD\Aplicacion\Source\Services\GestionInmobiliaria.RESTServices\bin\GestionInmobiliaria.DataAccess.pdb
+E:\Trabajo DSD\Aplicacion\Source\Services\GestionInmobiliaria.RESTServices\bin\Microsoft.Practices.ServiceLocation.pdb
+E:\Trabajo DSD\Aplicacion\Source\Services\GestionInmobiliaria.RESTServices\bin\Microsoft.Practices.Unity.pdb
+E:\Trabajo DSD\Aplicacion\Source\Services\GestionInmobiliaria.RESTServices\bin\Microsoft.Practices.Unity.Interception.pdb
+E:\Trabajo DSD\Aplicacion\Source\Services\GestionInmobiliaria.RESTServices\obj\Debug\GestionInmobiliaria.RESTServices.csprojResolveAssemblyReference.cache
+E:\Trabajo DSD\Aplicacion\Source\Services\GestionInmobiliaria.RESTServices\obj\Debug\GestionInmobiliaria.RESTServices.dll
+E:\Trabajo DSD\Aplicacion\Source\Services\GestionInmobiliaria.RESTServices\obj\Debug\GestionInmobiliaria.RESTServices.pdb
+E:\Reservas DSD\Aplicacion\Source\Services\GestionInmobiliaria.RESTServices\bin\GestionInmobiliaria.RESTServices.dll
+E:\Reservas DSD\Aplicacion\Source\Services\GestionInmobiliaria.RESTServices\bin\GestionInmobiliaria.RESTServices.pdb
+E:\Reservas DSD\Aplicacion\Source\Services\GestionInmobiliaria.RESTServices\bin\GestionInmobiliaria.BusinessEntity.dll
+E:\Reservas DSD\Aplicacion\Source\Services\GestionInmobiliaria.RESTServices\bin\GestionInmobiliaria.BusinessLogic.dll
+E:\Reservas DSD\Aplicacion\Source\Services\GestionInmobiliaria.RESTServices\bin\GestionInmobiliaria.Utils.dll
+E:\Reservas DSD\Aplicacion\Source\Services\GestionInmobiliaria.RESTServices\bin\GestionInmobiliaria.DataAccess.dll
+E:\Reservas DSD\Aplicacion\Source\Services\GestionInmobiliaria.RESTServices\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\Reservas DSD\Aplicacion\Source\Services\GestionInmobiliaria.RESTServices\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\Reservas DSD\Aplicacion\Source\Services\GestionInmobiliaria.RESTServices\bin\Microsoft.Practices.ServiceLocation.dll
+E:\Reservas DSD\Aplicacion\Source\Services\GestionInmobiliaria.RESTServices\bin\Microsoft.Practices.Unity.dll
+E:\Reservas DSD\Aplicacion\Source\Services\GestionInmobiliaria.RESTServices\bin\Microsoft.Practices.Unity.Interception.dll
+E:\Reservas DSD\Aplicacion\Source\Services\GestionInmobiliaria.RESTServices\bin\GestionInmobiliaria.BusinessEntity.pdb
+E:\Reservas DSD\Aplicacion\Source\Services\GestionInmobiliaria.RESTServices\bin\GestionInmobiliaria.BusinessLogic.pdb
+E:\Reservas DSD\Aplicacion\Source\Services\GestionInmobiliaria.RESTServices\bin\GestionInmobiliaria.Utils.pdb
+E:\Reservas DSD\Aplicacion\Source\Services\GestionInmobiliaria.RESTServices\bin\GestionInmobiliaria.DataAccess.pdb
+E:\Reservas DSD\Aplicacion\Source\Services\GestionInmobiliaria.RESTServices\bin\Microsoft.Practices.ServiceLocation.pdb
+E:\Reservas DSD\Aplicacion\Source\Services\GestionInmobiliaria.RESTServices\bin\Microsoft.Practices.Unity.pdb
+E:\Reservas DSD\Aplicacion\Source\Services\GestionInmobiliaria.RESTServices\bin\Microsoft.Practices.Unity.Interception.pdb
+E:\Reservas DSD\Aplicacion\Source\Services\GestionInmobiliaria.RESTServices\obj\Debug\GestionInmobiliaria.RESTServices.csprojResolveAssemblyReference.cache
+E:\Reservas DSD\Aplicacion\Source\Services\GestionInmobiliaria.RESTServices\obj\Debug\GestionInmobiliaria.RESTServices.dll
+E:\Reservas DSD\Aplicacion\Source\Services\GestionInmobiliaria.RESTServices\obj\Debug\GestionInmobiliaria.RESTServices.pdb
+D:\GoogleCode\SGI 1.0\Aplicacion\Source\Services\GestionInmobiliaria.RESTServices\bin\GestionInmobiliaria.RESTServices.dll
+D:\GoogleCode\SGI 1.0\Aplicacion\Source\Services\GestionInmobiliaria.RESTServices\bin\GestionInmobiliaria.RESTServices.pdb
+D:\GoogleCode\SGI 1.0\Aplicacion\Source\Services\GestionInmobiliaria.RESTServices\bin\GestionInmobiliaria.BusinessEntity.dll
+D:\GoogleCode\SGI 1.0\Aplicacion\Source\Services\GestionInmobiliaria.RESTServices\bin\GestionInmobiliaria.BusinessLogic.dll
+D:\GoogleCode\SGI 1.0\Aplicacion\Source\Services\GestionInmobiliaria.RESTServices\bin\GestionInmobiliaria.Utils.dll
+D:\GoogleCode\SGI 1.0\Aplicacion\Source\Services\GestionInmobiliaria.RESTServices\bin\GestionInmobiliaria.DataAccess.dll
+D:\GoogleCode\SGI 1.0\Aplicacion\Source\Services\GestionInmobiliaria.RESTServices\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\GoogleCode\SGI 1.0\Aplicacion\Source\Services\GestionInmobiliaria.RESTServices\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\GoogleCode\SGI 1.0\Aplicacion\Source\Services\GestionInmobiliaria.RESTServices\bin\Microsoft.Practices.ServiceLocation.dll
+D:\GoogleCode\SGI 1.0\Aplicacion\Source\Services\GestionInmobiliaria.RESTServices\bin\Microsoft.Practices.Unity.dll
+D:\GoogleCode\SGI 1.0\Aplicacion\Source\Services\GestionInmobiliaria.RESTServices\bin\Microsoft.Practices.Unity.Interception.dll
+D:\GoogleCode\SGI 1.0\Aplicacion\Source\Services\GestionInmobiliaria.RESTServices\bin\GestionInmobiliaria.BusinessEntity.pdb
+D:\GoogleCode\SGI 1.0\Aplicacion\Source\Services\GestionInmobiliaria.RESTServices\bin\GestionInmobiliaria.BusinessLogic.pdb
+D:\GoogleCode\SGI 1.0\Aplicacion\Source\Services\GestionInmobiliaria.RESTServices\bin\GestionInmobiliaria.Utils.pdb
+D:\GoogleCode\SGI 1.0\Aplicacion\Source\Services\GestionInmobiliaria.RESTServices\bin\GestionInmobiliaria.DataAccess.pdb
+D:\GoogleCode\SGI 1.0\Aplicacion\Source\Services\GestionInmobiliaria.RESTServices\bin\Microsoft.Practices.ServiceLocation.pdb
+D:\GoogleCode\SGI 1.0\Aplicacion\Source\Services\GestionInmobiliaria.RESTServices\bin\Microsoft.Practices.Unity.pdb
+D:\GoogleCode\SGI 1.0\Aplicacion\Source\Services\GestionInmobiliaria.RESTServices\bin\Microsoft.Practices.Unity.Interception.pdb
+D:\GoogleCode\SGI 1.0\Aplicacion\Source\Services\GestionInmobiliaria.RESTServices\obj\Debug\GestionInmobiliaria.RESTServices.csprojResolveAssemblyReference.cache
+D:\GoogleCode\SGI 1.0\Aplicacion\Source\Services\GestionInmobiliaria.RESTServices\obj\Debug\GestionInmobiliaria.RESTServices.dll
+D:\GoogleCode\SGI 1.0\Aplicacion\Source\Services\GestionInmobiliaria.RESTServices\obj\Debug\GestionInmobiliaria.RESTServices.pdb
+C:\Users\David\Desktop\SIST. DISTRIBUIDOS\SGI 1.0\SGI 1.0\SGI 1.0\Aplicacion\Source\Services\GestionInmobiliaria.RESTServices\bin\GestionInmobiliaria.RESTServices.dll
+C:\Users\David\Desktop\SIST. DISTRIBUIDOS\SGI 1.0\SGI 1.0\SGI 1.0\Aplicacion\Source\Services\GestionInmobiliaria.RESTServices\bin\GestionInmobiliaria.RESTServices.pdb
+C:\Users\David\Desktop\SIST. DISTRIBUIDOS\SGI 1.0\SGI 1.0\SGI 1.0\Aplicacion\Source\Services\GestionInmobiliaria.RESTServices\bin\GestionInmobiliaria.BusinessEntity.dll
+C:\Users\David\Desktop\SIST. DISTRIBUIDOS\SGI 1.0\SGI 1.0\SGI 1.0\Aplicacion\Source\Services\GestionInmobiliaria.RESTServices\bin\GestionInmobiliaria.BusinessLogic.dll
+C:\Users\David\Desktop\SIST. DISTRIBUIDOS\SGI 1.0\SGI 1.0\SGI 1.0\Aplicacion\Source\Services\GestionInmobiliaria.RESTServices\bin\GestionInmobiliaria.Utils.dll
+C:\Users\David\Desktop\SIST. DISTRIBUIDOS\SGI 1.0\SGI 1.0\SGI 1.0\Aplicacion\Source\Services\GestionInmobiliaria.RESTServices\bin\GestionInmobiliaria.DataAccess.dll
+C:\Users\David\Desktop\SIST. DISTRIBUIDOS\SGI 1.0\SGI 1.0\SGI 1.0\Aplicacion\Source\Services\GestionInmobiliaria.RESTServices\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\David\Desktop\SIST. DISTRIBUIDOS\SGI 1.0\SGI 1.0\SGI 1.0\Aplicacion\Source\Services\GestionInmobiliaria.RESTServices\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\David\Desktop\SIST. DISTRIBUIDOS\SGI 1.0\SGI 1.0\SGI 1.0\Aplicacion\Source\Services\GestionInmobiliaria.RESTServices\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\David\Desktop\SIST. DISTRIBUIDOS\SGI 1.0\SGI 1.0\SGI 1.0\Aplicacion\Source\Services\GestionInmobiliaria.RESTServices\bin\Microsoft.Practices.Unity.dll
+C:\Users\David\Desktop\SIST. DISTRIBUIDOS\SGI 1.0\SGI 1.0\SGI 1.0\Aplicacion\Source\Services\GestionInmobiliaria.RESTServices\bin\Microsoft.Practices.Unity.Interception.dll
+C:\Users\David\Desktop\SIST. DISTRIBUIDOS\SGI 1.0\SGI 1.0\SGI 1.0\Aplicacion\Source\Services\GestionInmobiliaria.RESTServices\bin\GestionInmobiliaria.BusinessEntity.pdb
+C:\Users\David\Desktop\SIST. DISTRIBUIDOS\SGI 1.0\SGI 1.0\SGI 1.0\Aplicacion\Source\Services\GestionInmobiliaria.RESTServices\bin\GestionInmobiliaria.BusinessLogic.pdb
+C:\Users\David\Desktop\SIST. DISTRIBUIDOS\SGI 1.0\SGI 1.0\SGI 1.0\Aplicacion\Source\Services\GestionInmobiliaria.RESTServices\bin\GestionInmobiliaria.Utils.pdb
+C:\Users\David\Desktop\SIST. DISTRIBUIDOS\SGI 1.0\SGI 1.0\SGI 1.0\Aplicacion\Source\Services\GestionInmobiliaria.RESTServices\bin\GestionInmobiliaria.DataAccess.pdb
+C:\Users\David\Desktop\SIST. DISTRIBUIDOS\SGI 1.0\SGI 1.0\SGI 1.0\Aplicacion\Source\Services\GestionInmobiliaria.RESTServices\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\David\Desktop\SIST. DISTRIBUIDOS\SGI 1.0\SGI 1.0\SGI 1.0\Aplicacion\Source\Services\GestionInmobiliaria.RESTServices\bin\Microsoft.Practices.Unity.pdb
+C:\Users\David\Desktop\SIST. DISTRIBUIDOS\SGI 1.0\SGI 1.0\SGI 1.0\Aplicacion\Source\Services\GestionInmobiliaria.RESTServices\bin\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\David\Desktop\SIST. DISTRIBUIDOS\SGI 1.0\SGI 1.0\SGI 1.0\Aplicacion\Source\Services\GestionInmobiliaria.RESTServices\obj\Debug\GestionInmobiliaria.RESTServices.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\SIST. DISTRIBUIDOS\SGI 1.0\SGI 1.0\SGI 1.0\Aplicacion\Source\Services\GestionInmobiliaria.RESTServices\obj\Debug\GestionInmobiliaria.RESTServices.dll
+C:\Users\David\Desktop\SIST. DISTRIBUIDOS\SGI 1.0\SGI 1.0\SGI 1.0\Aplicacion\Source\Services\GestionInmobiliaria.RESTServices\obj\Debug\GestionInmobiliaria.RESTServices.pdb

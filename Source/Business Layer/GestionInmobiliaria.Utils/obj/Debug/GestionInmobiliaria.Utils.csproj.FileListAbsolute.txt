@@ -1,0 +1,13 @@
+D:\GoogleCode\SGI 3.0\Source\Business Layer\GestionInmobiliaria.Utils\bin\Debug\GestionInmobiliaria.Utils.dll
+D:\GoogleCode\SGI 3.0\Source\Business Layer\GestionInmobiliaria.Utils\bin\Debug\GestionInmobiliaria.Utils.pdb
+D:\GoogleCode\SGI 3.0\Source\Business Layer\GestionInmobiliaria.Utils\obj\Debug\GestionInmobiliaria.Utils.dll
+D:\GoogleCode\SGI 3.0\Source\Business Layer\GestionInmobiliaria.Utils\obj\Debug\GestionInmobiliaria.Utils.pdb
+E:\Reservas DSD\Aplicacion\Source\Business Layer\GestionInmobiliaria.Utils\bin\Debug\GestionInmobiliaria.Utils.dll
+E:\Reservas DSD\Aplicacion\Source\Business Layer\GestionInmobiliaria.Utils\bin\Debug\GestionInmobiliaria.Utils.pdb
+E:\Reservas DSD\Aplicacion\Source\Business Layer\GestionInmobiliaria.Utils\obj\Debug\GestionInmobiliaria.Utils.dll
+E:\Reservas DSD\Aplicacion\Source\Business Layer\GestionInmobiliaria.Utils\obj\Debug\GestionInmobiliaria.Utils.pdb
+D:\GoogleCode\SGI 1.0\Aplicacion\Source\Business Layer\GestionInmobiliaria.Utils\bin\Debug\GestionInmobiliaria.Utils.dll
+D:\GoogleCode\SGI 1.0\Aplicacion\Source\Business Layer\GestionInmobiliaria.Utils\bin\Debug\GestionInmobiliaria.Utils.pdb
+D:\GoogleCode\SGI 1.0\Aplicacion\Source\Business Layer\GestionInmobiliaria.Utils\obj\Debug\GestionInmobiliaria.Utils.dll
+D:\GoogleCode\SGI 1.0\Aplicacion\Source\Business Layer\GestionInmobiliaria.Utils\obj\Debug\GestionInmobiliaria.Utils.pdb
+D:\GoogleCode\SGI 1.0\Aplicacion\Source\Business Layer\GestionInmobiliaria.Utils\obj\Debug\GestionInmobiliaria.Utils.csprojResolveAssemblyReference.cache
